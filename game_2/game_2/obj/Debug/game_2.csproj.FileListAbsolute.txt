@@ -1,0 +1,10 @@
+C:\Users\ckzks\source\repos\game_2\game_2\bin\Debug\game_2.exe.config
+C:\Users\ckzks\source\repos\game_2\game_2\bin\Debug\game_2.exe
+C:\Users\ckzks\source\repos\game_2\game_2\bin\Debug\game_2.pdb
+C:\Users\ckzks\source\repos\game_2\game_2\obj\Debug\game_2.csproj.AssemblyReference.cache
+C:\Users\ckzks\source\repos\game_2\game_2\obj\Debug\game_2.Form1.resources
+C:\Users\ckzks\source\repos\game_2\game_2\obj\Debug\game_2.Properties.Resources.resources
+C:\Users\ckzks\source\repos\game_2\game_2\obj\Debug\game_2.csproj.GenerateResource.cache
+C:\Users\ckzks\source\repos\game_2\game_2\obj\Debug\game_2.csproj.CoreCompileInputs.cache
+C:\Users\ckzks\source\repos\game_2\game_2\obj\Debug\game_2.exe
+C:\Users\ckzks\source\repos\game_2\game_2\obj\Debug\game_2.pdb
